@@ -17,6 +17,10 @@ th, td {
   border-bottom: 1px solid black;
 }
 
+section{
+  background-color: #f4ab14;
+}
+
 tr:hover {
   background-color: #258EAD;
 }
@@ -71,6 +75,6 @@ label {
 }
 
 footer{
-  background: #5E5E5E;
-  color: #FFF;
+  background: #f4ab14;
+  color: #0d4373;
 }
